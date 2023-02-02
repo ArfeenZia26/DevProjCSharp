@@ -1,0 +1,65 @@
+﻿{
+   "CodeGenerationMode": 1,
+   "ContextClassName": "DatabaseContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Sparcpoint.DAL",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 1,
+   "Tables": [
+      {
+         "Name": "[Instances].[Categories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Instances].[CategoryAttributes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Instances].[CategoryCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Instances].[ProductAttributes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Instances].[ProductCategories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Instances].[Products]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Transactions].[InventoryTransactions]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "Sparcpoint.Inventory.Database\\Sparcpoint.Inventory.Database.sqlproj",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
